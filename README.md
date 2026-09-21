@@ -2,7 +2,7 @@
 
 An independent, static web project dedicated to showcasing Porsche Motorsport news, iconic model specs, active racing teams, and official merchandise.
 
-[🚀 View Live Site](https://renzosantelli11-ship-it.github.io/Porsche-Motorsport-Web/)
+[🚀 View Live Site](https://renzosantelli.github.io/Porsche-Motorsport-Web/)
 
 ---
 
@@ -39,5 +39,5 @@ This is a **non-official, fan-made educational project**. All trademarks, logos,
 ## 👤 Author
 
 **Renzo**
-* GitHub: [@renzosantelli11-ship-it](https://github.com/renzosantelli11-ship-it)
-* Live Web App: [Porsche Motorsport Web](https://renzosantelli11-ship-it.github.io/Porsche-Motorsport-Web/)
+* GitHub: [@renzosantelli11-ship-it](https://github.com/renzosantelli)
+* Live Web App: [Porsche Motorsport Web](https://renzosantelli.github.io/Porsche-Motorsport-Web/)
